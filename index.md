@@ -4,12 +4,16 @@
   
 </div>
   
+  
+<div align ="center">
+  
 |                       **Cecile K. Johnson**                       |               **Hannah E. Schmuckler**              |
 |:-----------------------------------------------------------------:|:---------------------------------------------------:|
 |           _MS Data Science, University of Virginia '22_           |    _MS Data Science, University of Virginia '22_    |
 |              [GitHub](https://github.com/ckjohnson7)              |       [GitHub](https://github.com/hschmuckler)      |
 | [LinkedIn](https://www.linkedin.com/in/cecile-johnson-291a43108/) | [LinkedIn](https://www.linkedin.com/in/schmuckler/) |
 
+</div>
 
 ## Links
 - [Paper ADD LINK]() ### Can we upload a version of our doc not through IEEE?
