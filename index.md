@@ -1,9 +1,4 @@
-<div align ="center">
-  
 # Longitudinal Classification and Predictive Modeling for Historical CPS Data Using Random Forests
-  
-</div>
-  
   
 <div align ="center">
   
