@@ -1,5 +1,3 @@
-<div align = "center">
-  
 # Longitudinal Classification and Predictive Modeling for Historical CPS Data Using Random Forests
   
 |                       **Cecile K. Johnson**                       |               **Hannah E. Schmuckler**              |
@@ -8,7 +6,6 @@
 |              [GitHub](https://github.com/ckjohnson7)              |       [GitHub](https://github.com/hschmuckler)      |
 | [LinkedIn](https://www.linkedin.com/in/cecile-johnson-291a43108/) | [LinkedIn](https://www.linkedin.com/in/schmuckler/) |
 
-  </div>
 
 ## Links
 - [Paper ADD LINK]() ### Can we upload a version of our doc not through IEEE?
