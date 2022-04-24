@@ -10,7 +10,7 @@
 ## Links
 - [Paper ADD LINK]() ### Can we upload a version of our doc not through IEEE?
 - [Libra Dataverse Repository](https://doi.org/10.18130/V3/6RUBPV) ([ReadMe])() ### MUST UPLOAD README ONCE PAPER LINK IS LIVE
-- Machine Readable [Industry](https://github.com/IndOcc/CPScrosswalks/blob/main/IND_crosswalk_FULL.csv) and [Occupation](https://github.com/IndOcc/CPScrosswalks/blob/main/OCC_crosswalk_FULL.csv) Crosswalks. [GitHub](https://github.com/IndOcc/CPScrosswalks)
+- Machine Readable [Industry](https://github.com/IndOcc/CPScrosswalks/blob/main/IND_crosswalk_FULL.csv) and [Occupation](https://github.com/IndOcc/CPScrosswalks/blob/main/OCC_crosswalk_FULL.csv) Crosswalks. ([GitHub](https://github.com/IndOcc/CPScrosswalks))
 
 
 ### Example Code
