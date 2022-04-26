@@ -9,13 +9,17 @@
 
 ## Our Work
 - [Paper](https://ssrn.com/abstract=4094304)
-- Our [Libra Dataverse Repository](https://doi.org/10.18130/V3/6RUBPV) contains trained forests and over 450 million predictions. ([ReadMe])() ### MUST UPLOAD README ONCE PAPER LINK IS LIVE
+- Our [Libra Dataverse Repository](https://doi.org/10.18130/V3/6RUBPV) contains trained forests and over 450 million predictions. ([ReadMe])(https://dataverse.lib.virginia.edu/file.xhtml?fileId=57998&version=2.0)
 - The machine readable [Industry](https://github.com/IndOcc/CPScrosswalks/blob/main/IND_crosswalk_FULL.csv) and [Occupation](https://github.com/IndOcc/CPScrosswalks/blob/main/OCC_crosswalk_FULL.csv) crosswalks between census codes encompassing the 70s to current are available for other researchers. ([GitHub](https://github.com/IndOcc/CPScrosswalks))
 
 
 ### Example Code
 - Building Random Forests: [Industry](https://github.com/IndOcc/IndOcc/blob/main/01_BuildRandomForestsIND.R) and [Occupation](https://github.com/IndOcc/IndOcc/blob/main/02_BuildRandomForestsOCC.R)
 - Making Predictions: [Industry](https://github.com/IndOcc/IndOcc/blob/main/03_PredictionIND.R) and [Occupation](https://github.com/IndOcc/IndOcc/blob/main/04_PredictionOCC.R) ### MUST FILL OUT README
+- Vignette 1
+- Vignette 2
+
+### Appendix
 
 ### Other
 In the course of our work, we cleaned the "Treiman File" dual-coded Industry & Occupation dataset (1970-1980) for use. We make it available for the benefit of other researchers. 
