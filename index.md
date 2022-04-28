@@ -15,9 +15,7 @@
 
 ### Example Code
 - Building Random Forests: [Industry](https://github.com/IndOcc/IndOcc/blob/main/01_BuildRandomForestsIND.R) and [Occupation](https://github.com/IndOcc/IndOcc/blob/main/02_BuildRandomForestsOCC.R)
-- Making Predictions: [Industry](https://github.com/IndOcc/IndOcc/blob/main/03_PredictionIND.R) and [Occupation](https://github.com/IndOcc/IndOcc/blob/main/04_PredictionOCC.R) ### MUST FILL OUT README
-- Vignette 1
-- Vignette 2
+- Making Predictions: [Industry](https://github.com/IndOcc/IndOcc/blob/main/03_PredictionIND.R) and [Occupation](https://github.com/IndOcc/IndOcc/blob/main/04_PredictionOCC.R)
 
 ### Appendix
 
