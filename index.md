@@ -16,8 +16,11 @@
 ### Example Code
 - Building Random Forests: [Industry](https://github.com/IndOcc/IndOcc/blob/main/01_BuildRandomForestsIND.R) and [Occupation](https://github.com/IndOcc/IndOcc/blob/main/02_BuildRandomForestsOCC.R)
 - Making Predictions: [Industry](https://github.com/IndOcc/IndOcc/blob/main/03_PredictionIND.R) and [Occupation](https://github.com/IndOcc/IndOcc/blob/main/04_PredictionOCC.R)
+- Vignette: [Predicting Industry Using Random Forests Built with Crosswalked Data](https://rpubs.com/mmc4cv/pred_ind_rf_cw)
+- Vignette: [Utilizing Resources from Random Forest CPS Predictions](https://rpubs.com/mmc4cv/utilizing-resources_rf_preds)
 
 ### Appendix
+- [Generating Random Forests and Predictions Using Crosswalked Data](https://rpubs.com/mmc4cv/appendix)
 
 ### Other
 In the course of our work, we cleaned the "Treiman File" dual-coded Industry & Occupation dataset (1970-1980) for use. We make it available for the benefit of other researchers. 
